@@ -1,2 +1,8 @@
-# Computer-Architecture-Project
-A basic CPU design implemented using digital logic simulation tools. Includes instruction memory and custom hexadecimal program input for demonstration.
+
+## ✍️ Author
+
+- Ria Dalwani
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
